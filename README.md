@@ -1,7 +1,9 @@
 # Online-Doctor-Appointment
 
 Website Name: Good Health
+
 Online doctor appointment is a website that enables a user or any individual of a particular area to book an appointment with a doctor in that area. A user here is patient and booking can be done in the timespan of next 7 days. The major actors in this project are Patient, Doctor, Admin and Manager. Patients can search the doctor based on the location of clinic in a particular region. Also by entering the name of a Doctor, patient is able to retrieve the details of that particular doctor.
+
 Doctors
 • Doctors are added by the admin.
 • Each doctor has a specific timeslot throughout the week.
